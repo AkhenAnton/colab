@@ -1,3 +1,3 @@
 ## Test file
 
-and more text to
+Second sample text
